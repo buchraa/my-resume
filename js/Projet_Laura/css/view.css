@@ -1,0 +1,129 @@
+
+
+section .heading {
+    
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+
+.reddivider
+{
+    width: 100px;
+    height: 2px;
+    background: #EC7063;
+    margin: 0px auto;
+   
+}
+
+
+
+.heading h2 {
+    text-transform: uppercase;
+}
+/* MENU */
+
+.navbar {
+    font-size: 12px;
+    letter-spacing:4px;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+    
+}
+.navbar .navbar-nav {
+    
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar li a {
+    color: #fff !important;
+    
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+     color: white!important;
+   
+}
+
+.navbar-default .navbar-toggle {
+    border-style: none;
+    
+}
+
+
+.navbar {
+    margin: 20px ;
+    background: black;
+    color: white ;
+}
+
+
+#projet_view {
+    margin: 10% 40% 5% 22%;
+    font-size: 18px;
+    font-weight: bold;
+}
+ .lien , .glyphicon{
+    color: #bd90c7;    
+}
+
+.lien {
+    margin-top: 2%;
+}
+
+#experience_view {
+   
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
+}
+.experience {
+    float: right;
+    margin-right: 30%;
+}
+
+.formation {
+   
+  float: left;
+  margin-left: 22%;
+  margin-right: 10%;
+}
+
+
+
+
+body {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    /*background: lightgray;*/
+   
+}
+
+
+
+.divider
+{
+    width:400px;
+    height: 6px;
+    border: solid 2px #bd90c7;
+    margin-left: -5%;
+}
+.heading 
+{
+    text-align: center;
+    margin-bottom: 60px;        
+}
+h2
+
+ .retrait {
+     margin-left: 15%;
+ }
+
+
+
